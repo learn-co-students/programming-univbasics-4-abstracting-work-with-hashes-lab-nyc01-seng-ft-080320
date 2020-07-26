@@ -32,7 +32,7 @@ directory of this lab.
    this method, create and return a hash with one key/value pair, using the first
    parameter as the _key_, and the second parameter as the _value_.
 
-   ```sh
+   ```
    2.6.1 :010 > my_hash_creator(:name, "George")
     => {:name=>"George"}
    2.6.1 :011 > my_hash_creator(:id, 5)
